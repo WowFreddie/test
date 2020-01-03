@@ -1,4 +1,4 @@
 111
 222
 bug code
-new func
+new code
