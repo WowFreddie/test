@@ -1,3 +1,10 @@
 111
 222
+<<<<<<< HEAD
 fix code
+=======
+bug code
+new code
+wow code
+go
+>>>>>>> dev
