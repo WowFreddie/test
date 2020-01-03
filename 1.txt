@@ -1,7 +1,2 @@
-<<<<<<< HEAD
 master:123
-dev:123456
-=======
-dev:779
->>>>>>> feature1
-feature1:123
+mid:123
